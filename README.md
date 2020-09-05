@@ -1,6 +1,6 @@
 # FCC - Information Security and Quality Assurance
 
-## Imperial Metric converter an FCC Project
+## Imperial Metric Converter an FCC Project
 
 1) SET NODE_ENV to `test` without quotes
 2) Most logic will need done in `controllers/convertHandler.js` but do complete `routes/api.js`
